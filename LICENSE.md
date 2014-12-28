@@ -3,6 +3,7 @@
 (c) Copyright © 2014-2015 - [Tim Nguyen](http://ntim.altervista.org)
 
 Everyone can distribute verbatim copies of this license document, but changing it isn’t allowed.
+
 https://github.com/moduloteam/MOSL
 
 
