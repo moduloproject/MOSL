@@ -1,6 +1,6 @@
 # Modulo Open Source License (MOSL)
 
-(c) Copyright © 2014-2015 - [Tim Nguyen](http://ntim.altervista.org)
+(c) Copyright © 2014-2015 - [Tim Nguyen](http://ntim.altervista.org) and [Philippe Loctaux] (http://philippe.loctaux.com)
 
 Everyone can distribute verbatim copies of this license document, but changing it isn’t allowed.
 
