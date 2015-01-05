@@ -104,7 +104,7 @@ authors' permission will result in sanctions as described in section 5 of the
 License.
 
 
-3) Distributing
+3. Distributing
 ---------------
 
 ### a) Commercial use
@@ -121,7 +121,7 @@ branding. Users must be able to distinguish the branding of Your application
 from the original application.
 
 
-4) Original authors rights and responsibility
+4. Original authors rights and responsibility
 ---------------------------------------------
 
 ### a) Responsibility
@@ -141,7 +141,7 @@ Source or works based on it. If You do not accept or respect the License,
 Your rights will be terminated.
 
 
-5) External sanctions
+5. External sanctions
 ---------------------
 
 If, as a consequence of a court judgment or allegation of patent infringement
